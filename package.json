@@ -12,8 +12,8 @@
     "site": "node tooling/example-site.js"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-alpha.66",
-    "@docusaurus/plugin-google-gtag": "^2.0.0-alpha.69",
+    "@docusaurus/core": "2.2.0",
+    "@docusaurus/plugin-google-gtag": "^2.2.0",
     "@docusaurus/preset-classic": "2.0.0-alpha.66",
     "@mdx-js/react": "^1.6.19",
     "clsx": "^1.1.1",
